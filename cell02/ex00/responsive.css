@@ -1,0 +1,17 @@
+    table{
+        width: 100%;
+        height: 180px;
+        border-collapse: collapse;
+    }
+
+    td{
+        border: 1px solid black;
+    }
+        
+    #box1{
+        background-color: lightgreen;
+    }
+
+    #box2{
+        background-color: lightpink;
+    }
